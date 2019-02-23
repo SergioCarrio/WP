@@ -19,6 +19,8 @@ Al apretar "Coches de Lujo" en el header te redirigira al inicio de la página.
 
 También, he puesto que en caso de quitar zoom a la página, que la imagen de fondo no se multipique, que se adapte al tamaño y que siempre este fija, que solo cambie el tamaño de el contenido de la página.
 
+En el apartado de "marcas" en el menú, cuenta una breve historia de cada marca y enseña diferentes modelos de coches y pinchando dobre el que mas te gusta, te lleva a la pagina de compra en una nueva ventana.
+
 Al apretar sobre "Experiencias" en el menú te saldran dos imagenes donde segun que quieras ver (Eventos y noticias o Museos) te llevaran a la pagina donde esta toda su información incluso si quieres saber mas sobre la noticia, puedes aspretar sobre ella y te redirigira a una pagina oficial en una nueva ventana donde estara explicada la noticia de forma detallada.
 
 En el apartado de la "Tienda" en el menú te dara a elegir entre las 3 marcas (Maserati, ferrari o Lamborghini) y dependiendo de cual hayas elegido te llevara, abriendose en una nueva ventana a la tienda oficial de esa marca.
