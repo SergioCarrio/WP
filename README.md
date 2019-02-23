@@ -23,4 +23,4 @@ Al apretar sobre "Experiencias" en el menú te saldran dos imagenes donde segun 
 
 En el apartado de la "Tienda" en el menú te dara a elegir entre las 3 marcas (Maserati, ferrari o Lamborghini) y dependiendo de cual hayas elegido te llevara, abriendose en una nueva ventana a la tienda oficial de esa marca.
 
-
+En el apartado "Contacto" en el menú simplemente es una breve descripción de contacto del dueño de la Web (nombre, correo, direcciom, nmero de telefono...) asi los visitantes ante algun problema, duda o cualquier cosa que quieran comunicarte se puedan poner en contacto con el dueño de la Web. 
